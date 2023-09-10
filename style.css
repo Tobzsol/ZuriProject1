@@ -1,0 +1,57 @@
+/* *{
+    background: no-repeat center #EF4FF4;
+    background-color: #FFFF;
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 30px;
+    display: flex;
+    flex-wrap: nowrap;
+    border: 2px solid cadetblue;
+    border-radius: 10px;
+
+} */
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    background: url(./Images/background1.jpg) no-repeat center cyan;
+    background-size: cover;
+    background-position: center;
+
+}
+
+#slackUsername{
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+ 
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgba(5%, 5%, 25%, 0.25);
+    border-radius: 90px;
+    align-items: center;
+}
+
+#currentDayOfTheWeek{
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 30px;
+}
+
+input{
+    border: 2px solid cadetblue;
+    border-radius: 5px; 
+    text-align: center;
+    text-decoration: none;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    text-decoration-color: grey;
+}
